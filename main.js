@@ -12,6 +12,5 @@ btn,addEventListener('click',function(){
     };
     if(input > number){
         output.innerHTML = "You guessed too high!"
-        output.innerHTML = "Hello";
     }
 });
